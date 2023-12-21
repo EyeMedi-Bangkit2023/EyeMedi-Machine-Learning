@@ -15,6 +15,7 @@
 4. diabetic_retinopathy
 
 ## Model Evaluation
+
 <p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/accuracy.png" width="500"/> </p>
 <p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/loss.png" width="500"/> </p>
 <p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/confussion-matrix.png" width="500"/> </p>
