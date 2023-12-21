@@ -14,13 +14,17 @@
 3. Normal
 4. diabetic_retinopathy
 
-## Model Evaluation
+## Library
 
-<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/accuracy.png" width="500"/> </p>
-<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/loss.png" width="500"/> </p>
-<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/confussion-matrix.png" width="500"/> </p>
+```text
+sklearn 
+pandas
+tensorflow
+numpy
+matplotlib
+```
 
-## Documentation:
+## Steps to Create a Model
 
 1. Looking for references dataset
 2. labeling each data
@@ -32,5 +36,12 @@
 8. Testing real data using another image
 11. Save the model with format h5
 12. Deploy the model 
+
+## Model Evaluation
+
+<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/accuracy.png" width="500"/> </p>
+<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/loss.png" width="500"/> </p>
+<p align="center" ><img src="https://github.com/EyeMedi-Bangkit2023/EyeMedi-Machine-Learning/blob/main/confussion-matrix.png" width="500"/> </p>
+
 
 
