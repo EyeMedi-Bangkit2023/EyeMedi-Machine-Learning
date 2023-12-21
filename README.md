@@ -27,10 +27,10 @@
 3. converts each image to RGB
 4. Divide the data in a ratio of 80% (train), 10% (validation) and 10% (test)
 5. Augmenting image data and Tuning hyperparameter
-6. Conduct machine learning model training experiments with 50,000 to 75,000 train steps
+6. Conduct machine learning model training experiments with 10,000 to 20,000 train steps
 7. Evaluate the machine learning model 
 8. Testing real data using another image
-11. Save the model by changing t
+11. Save the model with format h5
 12. Deploy the model 
 
 
