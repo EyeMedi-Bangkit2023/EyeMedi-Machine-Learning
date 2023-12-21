@@ -10,7 +10,7 @@
 ## Object label to be detected and classified
 
 1. Cataract
-2. diabetic_retinopathy
+2. Diabetic Retinopathy
 3. Glaucoma
 4. Normal
 
