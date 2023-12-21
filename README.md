@@ -9,10 +9,10 @@
 
 ## Object label to be detected and classified
 
-1. Glaucoma
-2. Cataract
-3. Normal
-4. diabetic_retinopathy
+1. Cataract
+2. diabetic_retinopathy
+3. Glaucoma
+4. Normal
 
 ## Library
 
